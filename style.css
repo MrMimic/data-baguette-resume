@@ -26,7 +26,7 @@ body {
 .section {
 	background: #0077c1;
 	padding: 50px 0;
-	margin-bottom: 40px;
+	margin-bottom: 10px;
 }
 
 .section .container {
@@ -276,7 +276,7 @@ meter::-webkit-meter-bar {
 .colonne1
 {
    width:50%; 
-   height:600px; 
+   height:800px; 
    background-color:#191919; 
    float:left;
    font-size: 28px;
@@ -285,7 +285,7 @@ meter::-webkit-meter-bar {
 .colonne2
 {
    width:50%; 
-   height:600px; 
+   height:800px; 
    background-color:#191919; 
    float:right;
    font-size: 28px;
